@@ -2,6 +2,9 @@
 
 Welcome to the "Chat with PDF using Gemini" project repository! This project aims to provide a streamlined interface for users to interactively ask questions based on the content of PDF documents using Gemini, a conversational AI model.
 
+![image](https://github.com/Rafe2001/Chat-Multi-PDF-Gemini/assets/108533597/c97bd0b1-a1d6-4b8c-90e8-0846b560291b)
+
+
 ## Overview
 
 In this project, we leverage the power of various technologies and libraries to create an interactive web application using Streamlit. The application allows users to upload PDF files, extract text content, and ask questions related to the content of these documents. The answers are generated using the Gemini-Pro conversational AI model, providing users with relevant responses.
